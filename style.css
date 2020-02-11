@@ -1,0 +1,28 @@
+.clockBox {
+  background-color: pink;
+  max-width: 350px;
+  width: 100%;
+  text-align: center;
+  border-radius: 5px;
+  margin: 0 auto;
+  margin-top: 15%;
+  padding: 25px;
+}
+
+#clock {
+  background-color: mistyrose;
+  font-family: "Open Sans Condensed", sans-serif;
+  font-size: 60px;
+  text-shadow: 0px 0px 5px hotpink;
+  color: black;
+  border-radius: 5px;
+}
+
+#clock span {
+  color: black;
+  text-shadow: 0px 0px 3px palevioletred;
+  font-size: 20px;
+  position: relative;
+  top: -27px;
+  left: -10px;
+}
